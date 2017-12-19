@@ -1,9 +1,9 @@
 /* jshint esversion: 6 */
 ;(function () {
 	var router = {
-		'/index.html': 'index',
-		'/about-us.html': 'overview',
-		'/contact-us.html': 'contact'
+		'/import-export-require-isomorphism/index.html': 'index',
+		'/import-export-require-isomorphism/about-us.html': 'overview',
+		'/import-export-require-isomorphism/contact-us.html': 'contact'
 	},
 	file = router[location.pathname] || 'error';
 
