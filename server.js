@@ -57,7 +57,7 @@ http.createServer(function (request, response) {
 			statusCode = 200;
 			contentType = {};
 
-			if (/\.js$/g.test(file)) {
+			if (/\.(m)js$/g.test(file)) {
 				contentType = {
 					'Content-Type': 'application/javascript; charset=utf-8'
 				};
