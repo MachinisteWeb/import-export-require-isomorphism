@@ -8,4 +8,4 @@ Dépot accompagnant l'article : [Modules JavaScript natifs et isomorphisme avec 
 
 Les URL se finissant avec `/` sont remplacée par `.html` dans la démo.
 
-- [Accès à la Démo Live](https://haeresis.github.io/import-export-require-isomorphism/index.html)
+- [Accès à la Démo Live](https://machinisteweb.github.io/import-export-require-isomorphism/index.html)
